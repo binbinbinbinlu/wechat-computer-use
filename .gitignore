@@ -1,0 +1,10 @@
+# 本机操作记录和临时文件不应发布
+local-profile.md
+**/local-profile.md
+*.png
+*.jpg
+*.db
+*.sqlite
+.venv/
+__pycache__/
+.env
